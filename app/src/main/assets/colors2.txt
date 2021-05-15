@@ -1,0 +1,1639 @@
+35312C,Grey,Brown
+75AA94,Green,Green
+C0E8D5,Light Green,Green
+745085,Violet,Violet
+905E26,Brown,Yellow
+5D8AA8,Air Force Blue,Blue
+BEB29A,Grey,Yellow
+F2F0E6,White,Grey
+E1DACB,Grey,Yellow
+954E2C,Dark Brown,Orange
+F0F8FF,Light Cyan,Blue
+E32636,Red,Red
+1F6A7D,Blue,Blue
+EED9C4,Almond,Yellow
+9A8678,Almond Frost,Brown
+AD8A3B,Alpine Yellow,Yellow
+CDC6C5,Grey,Grey
+848789,Grey,Grey
+E52B50,Red,Red
+387B54,Dark Green,Green
+FFBF00,Amber Yellow,Yellow
+8A7D72,Grey,Brown
+9966CC,Violet,Violet
+95879C,Violet,Violet
+F5E6EA,Rose,Violet
+7D9D72,Green,Green
+8CCEEA,Blue,Blue
+6C461F,Antique Brass,Orange
+FAEBD7,Antique White,White
+C68E3F,Dark Yellow,Yellow
+D3A95C,Dark Yellow,Yellow
+66B348,Green,Green
+A95249,Red,Red
+DEEADC,Light Green,Green
+FBCEB1,Light Red,Orange
+F7F0DB,Apricot White,Yellow
+00FFFF,Aqua Blue,Blue
+D9DDD5,Grey,Grey
+E8F3E8,Aqua Green,Green
+DBE4DC,Grey,Grey
+7FFFD4,Aquamarine Blue,Blue
+274A5D,Blue,Blue
+484A46,Grey,Grey
+4B5320,Army green,Green
+827A67,Grey,Yellow
+3B444B,Blue,Grey
+BEBAA7,Grey,Green
+7BA05B,Green,Green
+EDD5A6,Cream,Yellow
+376F89,Blue,Blue
+445172,Astronaut,Blue
+214559,Astronaut Blue,Blue
+DCDDDD,Athens Grey,Grey
+D5CBB2,Aths Yellow,Yellow
+9CD03B,Green,Green
+2B797A,Dark Mint,Green
+3D4B52,Blue,Blue
+FF9966,Orange,Orange
+9E6759,Brown,Brown
+372528,Brown,Brown
+712F2C,Brown,Brown
+EFF8AA,White Yellow,Green
+95986B,Green,Green
+63775A,Green,Green
+F9C0C4,Rose,Red
+293432,Dark Blue,Green
+F0FFFF,Azure,Blue
+6FFFFF,Baby Blue,Blue
+25597F,Bahama Blue,Blue
+A9C01C,Green,Green
+5C3317,Baker's Chocolate,Brown
+849CA9,Blue,Blue
+3C3D3E,Grey,Grey
+FBE7B2,White Orange,Yellow
+878466,Grey,Green
+D2C61F,Dark Yellow,Green
+B6935C,Brown,Yellow
+F7E5B7,cream,Yellow
+452E39,purple,Violet
+2C2C32,dark blue,Blue
+51574F,dark blue,Grey
+7BB18D,light green,Green
+353E64,blue,Blue
+8F7777,light brown,Brown
+EBB9B3, light red,Red
+926F5B,brown,Brown
+E9D7AB,Beeswax,Yellow
+F5F5DC,light brown,Brown
+86D2C1,light green,Green
+6F8C9F,blue,Blue
+BCBFA8,gray,Green
+F4EFE0,light almond,Yellow
+334046,blue,Blue
+3E8027,green,Green
+AE99D2,violet,Violet
+3F3726,coffee,Yellow
+D0C117,yellow,Green
+2F3C53,blue,Blue
+486C7A,light blue,Blue
+B5AC94,light gray,Yellow
+FFE4C4,light almond,Brown
+3D2B1F,dark coffee,Brown
+88896C,gray,Green
+D2DB32,Bitter Lemon,Green
+FE6F5E,pink,Orange
+E7D2C8,light pink,Orange
+000000,Black,Black
+232E26,dark blue,Green
+2C3227,dark blue,Green
+E0DED7,light grey,Grey
+332C22,brown,Brown
+383740,blue,Blue
+1E272C,blue,Blue
+2C2D3C,blue,Blue
+532934,purple,Red
+24252B,dark blue,Grey
+E5E6DF,light grey,Grey
+E5E4DB,light grey,Grey
+43182F,violet,Violet
+2E183B,violet,Violet
+D9D0C1,light violet,Yellow
+FFEBCD,light Almond,Brown
+EBE1CE,light almond,Yellow
+A3E3ED,cyan,Blue
+DFB1B6,pink,Red
+0000FF,Blue,Blue
+62777E,light Blue,Blue
+9999CC,light Blue,Blue
+E3D6E9,light violet,Violet
+262B2F,dark Blue,Blue
+408F90,cyan,Green
+4B2D72,violet,Violet
+35514F,dark green,Green
+4B3C8E,violet,Violet
+BDBACE,light violet,Violet
+00626F,cyan,Green
+6A5BB1,violet,Violet
+D8F0D2,light green,Green
+78857A,violet,Green
+166461,dark cyan,Green
+8A2BE2,Blue Violet,Violet
+1E3442,Blue Whale,Blue
+3C4354,Blue,Blue
+305C71,light blue,Blue
+B55067,light red,Red
+2A2725,dark Grey,Grey
+79443B,brown,Brown
+AEAEAD,light blue,Grey
+DFD7D2,light violet,Grey
+0095B6,light Blue,Blue
+DBC2AB,light red,Orange
+4C1C24,purple,Red
+4C3D4E,violet,Violet
+438EAC,cyan,Blue
+92ACB4,light blue,Blue
+254636,dark green,Green
+7C817C,light grey,Grey
+A78199,light violet,Violet
+AF6C3E,orange,Orange
+5B3D27,brown,Brown
+DCB68A,light orange,Orange
+C07C40,orange,Orange
+B6857A,light violet,Red
+B5A642,dark yellow,Yellow
+517B78,cyan,Green
+C62D42,Red,Red
+F8EBDD,light orange,Orange
+FAE6DF,light orange,Orange
+66FF00,Bright Green,Green
+57595D,Bright Grey,Grey
+922A31,Bright Red,Red
+ECBD2C,Bright Sun,Yellow
+08E8DE,cyan,Blue
+FF55A3,light purple,Red
+FB607F,Pink,Red
+004225,Green,Green
+A79781,brown,Brown
+CD7F32,orange,Brown
+584C25,Brown,Yellow
+434C28,dark green,Yellow
+EECC24,yellow,Yellow
+A52A2A,dark red,Brown
+53331E,dark brown,Brown
+594537, Brown ,Brown
+3C241B, dark Brown,Brown
+E6F2EA,light green,Green
+6E5150,wood,Red
+A5A88F,light green,Green
+BC9B1B,yellow,Yellow
+F0DC82,light yellow,Yellow
+482427,dark red,Red
+75442B,dark orange,Orange
+292C2F,dark blue,Grey
+2B3449,blue,Blue
+800020,red,Red
+DEB887,light orange,Brown
+234537,dark green,Green
+D08363,orange,Orange
+582124,dark red,Red
+FF7034,Orange,Orange
+E97451,orange,Brown
+8A3324,dark red,Brown
+DA9429,dark yellow,Yellow
+9D702E,dark yellow,Yellow
+68578C,blue,Violet
+F6E0A4,light yellow,Yellow
+F1EBDA,light yellow,Yellow
+4A2E32,dark red,Red
+CD526C,pink,Red
+4C5544,dark green,Green
+5B6F55,green,Green
+5F9EA0,Cyan,Blue
+984961,dark pink,Red
+6A4928,brown,Brown
+D5B185,light orange,Brown
+E98C3A,orange,Orange
+3D7188,blue,Blue
+206937,green,Green
+803A4B,purple,Red
+CCA483,light orange,Brown
+4F4D32,dark green,Yellow
+78866B,light Green,Green
+D08A9B,pink,Red
+FFFF99,yellow,Yellow
+8E5164,purple,Red
+4E5552,dark green,Grey
+FEE0A5,light yellow,Yellow
+75482F,brown,Orange
+AFC182,light green,Green
+592720,dark red,Brown
+FFD59A,light orange,Yellow
+EBE5D5,light red,Green
+1B3427,Green,Green
+C41E3A,red,Red
+C99AA0,light Pink,Red
+00CC99,light Green,Green
+E68095,pink,Red
+F5F9CB,light yellow,Green
+960018,red,Red
+5B3A24,brown,Brown
+FFA6C9,Pink,Red
+F8DBE0,light Pink,Red
+ED9121,Carrot Orange,Orange
+F0B253,yellow,Yellow
+3F545A,dark blue,Blue
+8CA8A0,light green,Green
+D1B399,light brown,Brown
+AAB5B8,light blue,Blue
+44232F,dark brown,Red
+273C5A,Blue,Blue
+E0E4DC,light grey,Grey
+E0B8B1,Pink,Red
+9271A7,violet,Violet
+463430,dark brown,Brown
+ACE1AF,light green,Green
+B4C04C,dark yellow,Green
+D2D2C0,grey,Green
+3A4E5F,blue,Blue
+2B3F36,dark green,Green
+857158,brown,Brown
+DE3163,pink,Violet
+007BA7,blue,Blue
+2A52BE,Blue,Blue
+FDE9E0,very light red,Red
+5A6E41,Green,Green
+DFC281,orange,Yellow
+475877,blue,Blue
+E8CD9A,orange,Yellow
+EED9B6,light orange,Yellow
+EDB8C7,pink,Red
+394043,dark blue,Blue
+464646,Charcoal grey,Grey
+F8EADF,very light orange,Orange
+FFC878,yellow,Yellow
+A4DCE6,Cyan,Blue
+D0748B,pink,Red
+7FFF00,light green,Green
+DFFF00,Yellow,Yellow
+419F59,Green,Green
+B3ABB6,light violet,Violet
+2C5971,Blue,Blue
+88A95B,green,Green
+95532F,dark orange,Orange
+DEC371,light yellow,Yellow
+F5CD82,light yellow,Yellow
+372D52,violet,Violet
+F5D7DC,light pink,Red
+B94E48,red,Brown
+666FB4,Blue,Blue
+5B5D56,grey,Grey
+F0F5BB,Chiffon,Green
+D05E34,orange,Orange
+F9F7DE,very ligt yellow,Green
+FBF3D3,very light yellow,Green
+B8AD8A,brown,Yellow
+9DD3A8,light green,Green
+D2691E,orange,Brown
+382161,blue,Violet
+71A91D,light green,Green
+BF652E,orange,Orange
+CAC7B7,grey,Green
+7D4E38,brown,Brown
+242A2E,dark grey,Grey
+FBD7CC,light pink,Red
+E34234,red,Red
+5D3B2E,brown,Brown
+8E9A21,light green,Green
+9FB70A,light green,Green
+D2B3A9,light red,Orange
+6E2233,dark red,Red
+F4C8DB,Classic Rose,Violet
+897E59,brown,Yellow
+DFEFEA,cyan,Green
+463623,brown,Brown
+C2BCB1,light grey,Yellow
+353E4F,blue,Blue
+B0A99F,light brown,Brown
+47562F,green,Green
+0047AB,blue,Blue
+4F3835,very dark red,Red
+35281E,Brown,Brown
+E1DABB,Coconut Cream,Green
+2D3032,dark Grey,Grey
+726751,brown,Yellow
+362D26,brown,Brown
+9A463D,red,Red
+3C2F23,brown,Brown
+9D8ABF,Cold Purple,Violet
+CAB5B2,light brown,Red
+9BDDFF,Cyan,Blue
+636373,dark blue,Blue
+4C785C,green,Green
+A0B1AE,light green,Green
+827F79,grey,Grey
+D2D1CD,Concrete,Grey
+DDCB46,yellow,Green
+654D49,Brown,Brown
+B1DD52,light green,Green
+C16F68,red,Red
+DA8A67,orange,Red
+77422C,dark orange,Orange
+996666,red,Violet
+95524C,red,Red
+FF7F50,orange,Orange
+F5D0C9,light pink,Red
+FF4040,Red,Red
+AB6E67,brown,Red
+404D49,dark green,Green
+BBB58D,wood,Green
+5A4C42,brown,Brown
+FBEC5D,yellow,Yellow
+F8F3C4,light yellow,Green
+42426F,Blue,Blue
+8D702A,dark yellow,Yellow
+FFF8DC,almond,Yellow
+93CCEA,Cyan,Blue
+6495ED,blue,Blue
+E9BA81,orange,Orange
+794D60,purple,Violet
+E1F8E7,very light green,White
+FCD5CF,light red,Red
+625D2A,dark green,Green
+FFB7D5,pink,Red
+BFBAAF,grey,Yellow
+1B4B35,green,Green
+443736,brown,Brown
+87382F,red,Red
+A65648,red,Red
+DB5079,pink,Red
+4D3E3C,Brown,Brown
+FFFDD0,light yellow,White
+FFE39B,yellow,Yellow
+EEC051,yellow,Yellow
+393227,dark brown,Brown
+77712B,dark green,Green
+DC143C,red,Red
+706950,grey,Yellow
+763C33,dark red,Red
+B4E2D5,Cyan,Green
+165B31,green,Green
+F38653,orange,Orange
+784430,dark red,Orange
+F5F4C1,light yellow,Green
+F5B2C5,pink,Red
+3D85B8,blue,Blue
+5C8173,green,Green
+0F4645,dark green,Green
+EDD2A4,Cream,Yellow
+5B3E90,violet,Violet
+664A2D,brown,Brown
+FED85D,yellow,Yellow
+5B89C0,blue,Blue
+00008B,Dark Blue,Blue
+654321,Dark Brown,Brown
+08457E,Dark blue,Blue
+986960,brown,Red
+CD5B45,orange,Orange
+008B8B,Dark Cyan,Green
+B8860B,Dark Golden,Yellow
+A9A9A9,Dark Gray,Grey
+013220,Dark Green,Green
+4A766E,Dark Green,Green
+BDB76B,Dark yellow,Yellow
+8B008B,Dark Magenta,Violet
+556B2F,Dark Green,Green
+FF8C00,Dark Orange,Orange
+9932CC,violet,Violet
+03C03C,Green,Green
+E75480,Dark Pink,Red
+871F78,Dark Purple,Violet
+8B0000,Dark Red,Red
+45362B,Dark brown,Brown
+E9967A,orange,Orange
+8FBC8F,Green,Green
+465352,Dark grey,Green
+483D8B,Dark Blue,Blue
+2F4F4F,Dark Grey,Grey
+177245,Green,Green
+97694F,brown,Brown
+FFA812,orange,Orange
+00CED1,cyan,Blue
+9400D3,Violet,Violet
+855E42,wood,Brown
+788878,Grey,Grey
+9F9D91,grey,Green
+E6D6CD,very light red,Orange
+85CA87,light green,Green
+CCCF82,yellow,Green
+E36F8A,pink,Red
+51412D,Dark brown,Brown
+DA3287,dark pink,Violet
+193925,Dark green,Green
+343467,Dark blue,Violet
+9955BB,violet,Violet
+CC00CC,Magenta,Violet
+FF1493,Pink,Red
+167E65,green,Green
+00BFFF,sky Blue,Blue
+19443C,dark green,Green
+B5998E,light brown,Brown
+486531,green,Green
+999B95,grey,Grey
+8272A4,violet,Violet
+1560BD,blue,Blue
+F9E4C6,almond,Yellow
+A15F3B,dark orange,Orange
+EDC9AF,almond,Brown
+EDE7E0,light grey,Grey
+E7F2E9,very light green,Green
+322C2B,black,Grey
+696969,Grey,Grey
+607C47,green,Green
+892D4F,dark pink,Red
+CD8431,yellow,Yellow
+1E90FF,cyan,Blue
+F5F171,yellow,Green
+6A6873,grey,Violet
+6C5B4C,brown,Brown
+5A4F51,brown,Brown
+816E5C,Brown,Brown
+6E5F56,brown,Brown
+E4CF99,yellow,Yellow
+E9DCBE,almond,Yellow
+D2C3A3,cream,Yellow
+777672,Grey,Grey
+6FD2BE,cyan,Green
+FBEB9B,yellow,Yellow
+514F4A,dark grey,Grey
+E5CAC0,pink,Orange
+AC9B9B,Grey,Grey
+F0DFBB,light yellow,Yellow
+B0AC94,grey,Green
+B8A722,dark yellow,Green
+FBF2DB,cream,Yellow
+47526E,blue,Blue
+AA8CBC,violet,Violet
+00879F,Blue,Blue
+E6D8D4,cream,Red
+313337,black,Grey
+323438,black,Grey
+A4AFCD,light blue,Blue
+3F3939,black,Grey
+C2B280,light brown,Brown
+D6D1C0,light brown,Green
+C96138,orange,Orange
+266255,green,Green
+C1D8C5,light green,Green
+97A49A,grey,Green
+F9E4C5,cream,Yellow
+990066,purple,Violet
+1034A6,Blue,Blue
+39392C,very dark green,Green
+8F4E45,dark red,Red
+7DF9FF,cyan,Blue
+6600FF,violet,Violet
+CCFF00,yellow,Green
+BF00FF,violet,Violet
+243640,very dark blue,Blue
+1B8A6B,Green,Green
+297B76,green,Green
+50C878,light green,Green
+6E3974,violet,Violet
+50494A,dark grey,Grey
+7C7173,grey,Grey
+29598B,blue,Blue
+F5D752,Yellow,Yellow
+274234,dark green,Green
+8BA58F,light green,Green
+DAB160,dark yellow,Yellow
+4E312D,dark red,Red
+2D2F28,black,Green
+329760,light green,Green
+CDA59C,light red,Red
+26604F,green,Green
+264334,green,Green
+F3E5DC,light Pink,Orange
+6E5A5B,brown,Brown
+C19A6B,brown,Brown
+801818,Red,Red
+F2E6DD,very light red,Orange
+625665,violet,Violet
+A5D785,light green,Green
+4D5D53,dark green,Grey
+D19275,dark orange,Red
+63B76C,green,Green
+4F7942,Green,Green
+876A68,brown,Brown
+EACC4A,yellow,Yellow
+DBE0D0,light grey,Green
+B1592F,dark Orange,Orange
+636F22,Green,Green
+75785A,grey,Green
+61755B,green,Green
+694554,purple,Violet
+4B5A62,blue,Blue
+8F3F2A,orange,Orange
+B22222,red,Red
+E09842,dark yellow,Yellow
+CE1620,Red,Red
+314643,dark green,Green
+BE5C48,orange,Orange
+86282E,Red,Red
+EA8645,orange,Orange
+E1634F,orange,Orange
+EEDC82,light yellow,Yellow
+716E61,grey,Green
+7A2E4D,purple,Red
+FFFAF0,White,White
+D0EAE8,light cyan,Green
+D5C7E8,violet,Violet
+A7A69D,Grey,Grey
+228B22,green,Green
+FDEFDB,cream,Yellow
+65ADB2,Blue,Blue
+FFD7A0,cream,Yellow
+029D74,green,Green
+4156C5,Blue,Blue
+09F911,Green,Green
+E35BD8,purple,Red
+C00000,Red,Red
+BFBDC1,light Grey,Grey
+DEB7D9,light violet,Violet
+A4D2E0,cyan,Blue
+F64A8A,French Rose,Red
+86837A,Grey,Grey
+B4E1BB,light green,Green
+E56D75,light red,Red
+E1E4C5,light grey,Green
+E2F2E4,very light green,Green
+DBE5D2,very light green,Green
+4BA351,green,Green
+C154C1,purple,Violet
+FF77FF,purple,Red
+C2D62E,dark yellow,Green
+D19033,dark orange,Yellow
+335083,Blue,Blue
+15633D,Green,Green
+3C3B3C,dark grey,Grey
+C45655,red,Brown
+2C4641,dark Green,Green
+DCDCDC,light grey,White
+DCD7D1,light grey,Grey
+D8A723,yellow,Yellow
+E49B0F,yellow,Yellow
+C5832E,dark yellow,Yellow
+31796D,Green,Green
+E77B75,dark pink,Red
+CBD0CF,light grey,Grey
+C0BFC7,grey,Blue
+F8F8FF,White,White
+564786,violet,Violet
+B9AD61, dark yellow,Green
+D9DFCD,light grey,Green
+F8EACA,cream,Yellow
+EBD4AE,cream,Yellow
+78B1BF,cyan,Blue
+5F8151,Green,Green
+786E4C,brown,Yellow
+34533D,Green,Green
+FFD700,yellow,Yellow
+D56C30,orange,Orange
+E2B227,yellow,Yellow
+CA8136,dark orange,Orange
+996515,Golden Brown,Brown
+F1CC2B,yellow,Yellow
+EBDE31,yellow,Green
+F9D77E,light yellow,Yellow
+FCC200,yellow,Yellow
+EACE6A,light yellow,Yellow
+FFC152,orange,Yellow
+FFDF00,Golden Yellow,Yellow
+DBDB70,yellow,Yellow
+373332,very dark grey,Grey
+29332B,very dark Green,Green
+FDE336,yellow,Green
+399F86,green,Green
+9FD385,light green,Green
+698890,light blue,Blue
+51559B,blue,Blue
+CAB8A2,light Brown,Yellow
+FFCD73,dark yellow,Yellow
+8B8265,grey,Yellow
+C5E7CD,light green,Green
+7B948C,green,Green
+9DE093,light green,Green
+413D4B,dark violet,Violet
+383428,dark brown,Yellow
+4A4B46,grey,Grey
+008000,Green,Green
+3E6334,Green,Green
+393D2A,dark Green,Green
+526B2D,Green,Green
+BFC298,light grey,Green
+266242,Green,Green
+9CA664,Green,Green
+A9AF99,Grey,Green
+23414E,blue,Blue
+2C2D24,dark brown,Green
+DEDDCB,light brown,Green
+ADFF2F,light Green,Green
+C14D36,red,Orange
+808080,Grey,Grey
+9FA3A7,Grey,Grey
+BDBAAE,Grey,Green
+D1D3CC,Grey,Grey
+A19A7F,Grey,Yellow
+9391A0,violet,Blue
+465945,Grey,Green
+952E31,Red,Red
+343F5C,Blue,Blue
+74B2A8,cyan,Green
+A4ADB0,Grey,Grey
+ACC9B2,light green,Green
+718F8A,light green,Green
+484753,dark violet,Violet
+2C3539,dark blue,Blue
+7A7C76,grey,Grey
+989171,grey,Green
+9E8022,dark yellow,Yellow
+633528,dark red,Brown
+2C2A35,dark violet,Violet
+EDE7C8,cream,Green
+558F93,cyan,Blue
+F2E5BF,cream,Yellow
+FBF0D6,cream,Yellow
+F1EAD7,cream,Yellow
+E6DBC7,cream,Yellow
+E8D4A2,cream,Yellow
+5218FA,blue,Violet
+3FFF00,green,Green
+C93413,red,Orange
+CBCEC0,grey,Green
+EAB76A,orange,Yellow
+3B2B2C,dark brown,Brown
+5784C1,Blue,Blue
+99522B,dark orange,Orange
+D2DAED,light blue,Blue
+4F2A2C,brown,Red
+AEBBC1,light blue,Blue
+948C7E,Grey,Brown
+46473E,dark grey,Grey
+DF73FF,violet,Violet
+69684B,brown,Yellow
+987D73,brown,Brown
+928C3C,dark yellow,Green
+7A9461,light green,Green
+A7A07E,grey,Green
+736330,brown,Yellow
+DFF1D6,very light Green,Green
+F5EFEB,very light Red,Grey
+F6F5D7,very green Yellow,Green
+49889A,cyan,Blue
+608A5A,Green,Green
+AB495C,dark Pink,Red
+A1A9A8, Grey,Grey
+FDA470,orange,Orange
+BB8E34,brown,Yellow
+647D86,blue,Blue
+25342B,dark green,Green
+F400A1,pink,Red
+5C3C6D,violet,Violet
+F0FFF0,very light green,White
+E8ED69,yellow,Green
+CD6D93,purple,Violet
+648894,blue,Blue
+6D562C,brown,Yellow
+815B28,brown,Yellow
+FF00CC,Magenta,Red
+FF69B4,Pink,Red
+4E2E53,violet,Violet
+A7752C,brown,Yellow
+CEEFE4,light cyan,Green
+355E3B,Green,Green
+8B7E77,grey,Brown
+B2994B,dark yellow,Yellow
+AFE3D6,cyan,Green
+CAE1D9,light cyan,Green
+EF95AE,pink,Red
+B0E313,light green,Green
+CD5C5C,Red,Red
+4F301F,dark brown,Brown
+4B0082,Indigo,Violet
+9C5B34,dark orange,Orange
+002FA7,Blue,Blue
+FF4F00,Orange,Orange
+03B4C8,cyan,Blue
+62422B,Coffee,Brown
+CBCDCD,grey,Grey
+706E66,Grey,Grey
+865040,dark red,Brown
+009900,Green,Green
+F8EDDB,cream,Yellow
+FFFFF0,white,White
+3D325D,blue,Violet
+413628,brown,Brown
+3D3F7D,blue,Violet
+00A86B,green,Green
+E27945,orange,Orange
+CAE7E2,light cyan,Green
+3F2E4C,violet,Violet
+29292F,black,Blue
+674834,brown,Brown
+2F7532,green,Green
+CE7259,light red,Orange
+259797,dark cyan,Green
+5F2C2F,dark red,Red
+A50B5E,magenta,Red
+44798E,light blue,Blue
+BBD0C9,very light green,Green
+136843,green,Green
+463D3E,very dark grey,Grey
+EEF293,light yellow,Green
+7AAAE0,light Blue,Blue
+5D5346,brown,Brown
+878785,grey,Grey
+29AB87,green,Green
+B0C4C4,very light blue,Green
+74918E,dark cyan,Green
+DCBFAC,cream,Orange
+6C5E53,brown,Brown
+245336,Green,Green
+C5C3B0,light grey,Green
+2D2D24,black,Green
+FEDCC1,cream,Orange
+576D8E,Blue,Blue
+4CBB17,Green,Green
+4D503C,brown,Green
+6C322E,red,Red
+5FB69C,light green,Green
+F0E68C,yellow,Yellow
+BFC0AB,grey,Green
+3A3532,very dark grey,Grey
+49764F,green,Green
+695D87,violet,Violet
+583580,violet,Violet
+E093AB,pink,Red
+7B785A,dark green,Green
+804E2C,dark orange,Orange
+FEB552,orange,Yellow
+F9D054,yellow,Yellow
+428929,green,Green
+BAC00E,dark yellow,Green
+C6DA36,dark yellow,Green
+C6A95E,dark orange,Yellow
+FFFF66,yellow,Yellow
+6E8D71,light green,Green
+E6E6FA,very light violet,Violet
+CCCCFF,Lavender Blue,Blue
+FFF0F5,light pink,Violet
+BDBBD7,light blue,Grey
+FBAED2,Pink,Red
+FBA0E3,pink,Red
+7CFC00,Green,Green
+906A54,brown,Brown
+FDE910,yellow,Yellow
+FFFACD,light yellow,Yellow
+968428,dark yellow,Yellow
+999A86,grey,Green
+2E3749,dark blue,Blue
+ADD8E6,Light Blue,Blue
+F08080,light red,Orange
+E0FFFF,Light Cyan,Blue
+EEDD82,yellow,Yellow
+FAFAD2,Light yellow,Yellow
+90EE90,Light Green,Green
+D3D3D3,Light Grey,Grey
+FFB6C1,Light Pink,Red
+FFA07A,orange,Orange
+20B2AA,Light Sea Green,Green
+87CEFA,Light Sky Blue,Blue
+8470FF,Blue,Blue
+778899,Grey,Grey
+B0C4DE,Light Blue,Blue
+856363,Light Wood,Brown
+FFFFE0,Light Yellow,Yellow
+F7A233,orange,Yellow
+C8A2C8,light violet,Violet
+9470C4,violet,Violet
+C19FB3,light purple,Violet
+E9EEEB,very light grey,Grey
+7AAC21,green,Green
+00FF00,green,Green
+32CD32,Green,Green
+5F9727,dark green,Green
+89AC27,green,Green
+FAF0E6,cream,White
+C7CDD8,light blue,Blue
+962C54,marooon,Red
+534B4F,dark grey,Brown
+312A29,black,Brown
+DBD9C2,cream,Green
+B3BBB7,grey,Green
+489084,green,Green
+316EA0,blue,Blue
+A2A580,grey,Green
+393E2E,very dark green,Green
+9D9CB4,light blue,Blue
+B9ACBB,Light violet,Violet
+AE94AB,violet,Violet
+522426,dark red,Red
+8B504B,brown,Brown
+4C3347,violet,Violet
+AB9A1C,dark yellow,Green
+292D4F,blue,Blue
+4E5541,green,Green
+782E2C,red,Red
+AB8D3F,yellow,Yellow
+697D89,light blue,Blue
+CBE8E8,cyan,Blue
+FFB97B,orange,Orange
+B7E3A8,light green,Green
+2D3C54,dark blue,Blue
+473E23,brown,Brown
+FF00FF,Magenta,Violet
+AAF0D1,light green,Green
+F8F4FF,very light grey,White
+CA3435,red,Brown
+A56531,dark orange,Orange
+2A2922,black,Yellow
+E3B982,cream,Yellow
+695F50,grey,Brown
+505555,grey,Grey
+0BDA51,green,Green
+97976F,light green,Green
+66B7E1,blue,Blue
+3A4531,dark green,Green
+A59784,light brown,Brown
+766D7C,violet,Violet
+8D90A1,light blue,Blue
+B57B2E,light brown,Yellow
+8E2323,red,Orange
+CD525B,pink,Red
+F5B799,light red,Orange
+E77200,orange,Orange
+E2AF80,light orange,Orange
+7FC15C,green,Green
+96A793,green,Green
+E4DB55,yellow,Green
+352235,dark violet,Violet
+B88A3D,light brown,Yellow
+42639F,blue,Blue
+800000,Maroon,Brown
+2B2E26,very dark green,Green
+B7A8A3,light brown,Brown
+3C3748,violet,Violet
+EBC881,light yellow,Yellow
+57534B,grey,Brown
+365C7D,blue,Blue
+8E4D45,red,Red
+524B4B,grey,Grey
+E0B0FF,light violet,Violet
+915F6D,purple,Red
+F091A9,pink,Red
+C8B1C0,light violet,Violet
+73C2FB,cyan,Blue
+8C6338,brown,Orange
+66CDAA,green,Blue
+0000CD,Medium Blue,Blue
+AF4035,red,Red
+EAEAAE,light yellow,Yellow
+BA55D3,violet,Violet
+9370DB,violet,Violet
+3CB371,green,Green
+7B68EE, Blue,Blue
+00FA9A,light Green,Green
+48D1CC,light blue,Blue
+C71585,purple,Red
+A68064,Medium Wood,Brown
+E0B7C2,light red,Red
+342931,black,Violet
+FEBAAD,cream,Red
+C3B9DD,light violet,Violet
+D5D2D1,light grey,Grey
+E1DBD0,light grey,Yellow
+4F4E48,dark grey,Grey
+73343A,dark red,Red
+554A3C,brown,Red
+6E3D34,dark red,Red
+D4AF37,yellow,Yellow
+BB7431,orange,Orange
+4A3B6A,violet,Violet
+9B3D3D,Red,Red
+666A6D,Grey,Grey
+21303E,dark blue,Blue
+191970,Blue,Blue
+21263A,dark blue,Blue
+242E28,dark green,Green
+3F3623,brown,Brown
+F6F493,yellow,Green
+9E3332,Red,Red
+F3E5C0,cream,Yellow
+DCD9CD,grey,Grey
+595648,grey,Brown
+F5F5CC,yellow,Green
+DAEA6F,yellow,Green
+373E41,blue,Blue
+506355,Green,Green
+407577,light blue,Green
+3E3267,violet,Violet
+F5FFFA,very light green,White
+98FF98,Mint Green,Green
+E0D8A7,light brown,Green
+C6EADD,cyan,Green
+373F43,dark blue,Blue
+A5A9B2,grey,Blue
+BAB9A9,Mist Grey,Grey
+FFE4E1,Misty Rose,Violet
+605A67,violet,Violet
+582F2B,brown,Red
+FFE4B5,cream,Yellow
+6F372D,dark red,Red
+97463C,red,Red
+FF9889,light red,Red
+6B252C,dark red,Red
+554D42,dark grey,Brown
+A58B6F,light brown,Brown
+7A7679,grey,Grey
+393B3C,very dark grey,Grey
+7AC5B4,cyan,Green
+8378C7,violet,Violet
+F5F3CE,light yellow,Green
+CECDB8,grey,Green
+C0B2D7,violet,Violet
+F0C420,Yellow,Yellow
+9ED1D3,cyan,Blue
+442D21,dark Brown,Brown
+565051,grey,Grey
+005F5B,green,Green
+ADDFAD,light Green,Green
+1AB385,green,Green
+A09F9C,grey,Grey
+997A8D,light purple,Violet
+A9844F,brown,Yellow
+9E7E53,brown,Brown
+C54B8C,dark pink,Violet
+884F40,brown,Brown
+524D5B,violet,Violet
+FFDB58,yellow,Yellow
+D68B80,light red,Red
+FDAE45,orange,Yellow
+21421E,green,Green
+D8DDDA,light grey,Grey
+4E5D4E,green,Green
+A39A87,grey,Yellow
+E9E6DC,light cream,Green
+FFDEAD,cream,Brown
+000080,blue,Blue
+0066CC,Navy Blue,Blue
+B8C6BE,grey,Green
+EEC7A2,light red,Orange
+4D4DFF,Blue,Blue
+FF9933,orange,Orange
+FF6EC7,pink,Violet
+93AAB9,grey,Blue
+77A8AB,green,Green
+252525,black,Grey
+AAA583,light brown,Green
+666F6F,grey,Grey
+6D3B24,dark brown,Orange
+00009C,Blue,Blue
+E4C385,cream,Yellow
+EBC79E,cream,Brown
+DD8374,Pink,Red
+29A98B,green,Green
+332E2E,very dark grey,Grey
+A23D54,maroon,Red
+253F4E,Blue,Blue
+A99D9D,grey,Grey
+A19986,grey,Yellow
+1D393C,dark blue,Blue
+A4B88F,light green,Green
+BC9229,yellow,Yellow
+7E4A3B,brown,Brown
+FCEDC5,cream,Yellow
+008F70,green,Green
+4CA973,Green,Green
+CC7722,orange,Brown
+DFF0E2,very light green,Green
+FAF3DC,cream,Yellow
+313330,very dark grey,Grey
+8A3335,red,Red
+73503B,brown,Red
+CFB53B,yrllow,Yellow
+FDF5E6,light cream,White
+796878,violet,Violet
+C02E4C,red,Red
+808000,green,Green
+6B8E23,green,Green
+B5B35C,light green,Green
+888064,grey,Yellow
+747028,green,Green
+9AB973,green,Orange
+C2E6EC,cyan,Blue
+48412B,dark brown,Yellow
+A8C3BC,cyan,Green
+987E7E,brown,Brown
+395555,green,Green
+FFA500,Orange,Orange
+FFA000,Orange,Orange
+FF4500,Red,Orange
+A85335,dark Orange,Orange
+EAE3CD,cream,Yellow
+DA70D6,light purple,Violet
+F1EBD9,cream,Yellow
+255B77,blue,Blue
+C28E88,light red,Red
+D2D3B3,very light green,Green
+818988,Grey,Grey
+D3DBCB,very light green,Green
+2D383A,dark grey,Grey
+FF6037,Orange,Orange
+28353A,very dark Blue,Blue
+6D9A78,light green,Green
+D1EAEA,cyan,Blue
+D4B5B0,light red,Red
+864B36,dark orange,Orange
+7A715C,brown,Yellow
+009DC4,Blue,Blue
+4F4037,brown,Brown
+7EB394,light green,Green
+682860,purple,Violet
+987654,Brown,Brown
+DDADAF,Pale Chestnut,Red
+ABCDEF,cyan,Blue
+EEE8AA,light yellow,Yellow
+98FB98,light Green,Green
+BDCAA8,light green,Green
+F984E5,Magenta,Violet
+9C8D72,brown,Brown
+FADADD,light Pink,Red
+F9F59F,yellow,Green
+EFD6DA,light red,Red
+636D70,grey,Blue
+C3BEBB,grey,Grey
+BC987E,light red,Grey
+AFEEEE,cyan,Blue
+DB7093,light magenta,Red
+20392C,Green,Green
+36482F,green,Green
+EAE4DC,very light cream,Grey
+EBF7E4,very light green,Green
+DFB992,orange,Orange
+544F3A,dark green,Yellow
+FFEFD5,cream,Yellow
+7C2D37,dark red,Red
+488084,dark cyan,Green
+D0C8B0,cream,Yellow
+FBEB50,yellow,Green
+312760,blue,Violet
+BFCDC0,light blue,Green
+305D35,green,Green
+77DD77,Green,Green
+639283,dark cyan,Green
+D3E5EF,cyan,Blue
+2A2551,blue,Violet
+BAAB87,dark cream,Yellow
+404048,dark Grey,Grey
+FFCBA4,orange,Orange
+FFDAB9,light orange,Yellow
+FFCC99,Orange,Orange
+FADFAD,light orange,Yellow
+7A4434,brown,Brown
+D1E231,yellow,Yellow
+DED1C6,light brown,Orange
+EAE0C8,cream,Yellow
+766D52,brown,Yellow
+2599B2,blue,Blue
+D7E7D0,light green,Green
+ACB9E8,light blue,Blue
+C2A9DB,violet,Violet
+ACB6B2,light grey,Green
+C3CDE6,light blue,Blue
+1C39BB,Blue,Blue
+00A693,Green,Green
+32127A,blue,Violet
+F77FBE,Pink,Red
+683332,dark red,Red
+CC3333,Red,Red
+FE28A2,Rose,Red
+EC5800,orange,Red
+CD853F,orange,Brown
+733D1F,brown,Orange
+7A7229,green,Yellow
+DA9790,light red,Red
+91A092,grey,Green
+826663,brown,Brown
+F8EA97,yellow,Green
+5BA0D0,Blue,Blue
+FDD7E4,Pink,Red
+00A550,Green,Green
+756556,brown,Brown
+BDC07E,green,Green
+01796F,Green,Green
+2A2F23,very dark green,Green
+FFC0CB,Pink,Red
+FF66FF,light magenta,Red
+D8B4B6,light brown,Red
+F6CCD7,Pink,Red
+F3D7B6,light orange,Orange
+BFB3B2,grey,Grey
+9D5432,brown,Orange
+F5E6C4,cream,Yellow
+FCDBD2,light red,Red
+BA782A,light brown,Yellow
+BBCDA5,very light Green,Green
+E57F3D,orange,Orange
+BF8D3C,light brown,Yellow
+3E594C,dark green,Green
+DDA0DD,light magenta,Violet
+651C26,dark red,Red
+E5F2E7,very light green,Green
+8AA7CC,light Blue,Blue
+6A1F44,Purple,Violet
+DDDCDB,light grey,Grey
+DF9D5B,orange,Orange
+3B436C,blue,Blue
+F4F09B,light yellow,Green
+8B98D8,light blue,Blue
+F0D555,yellow,Yellow
+EFDCD4,light red,Orange
+845C40,brown,Brown
+B0E0E6,cyan,Blue
+883C32,red,Red
+CAB4D4,violet,Violet
+E2CDD5,light violet,Violet
+E4DE8E,yellow,Green
+F8F6DF,light yellow,Green
+F6E3DA,light red,Orange
+003366,Blue,Blue
+DD00FF,Purple,Violet
+CC8899,light maroon,Red
+6E3326,dark red,Orange
+59BAA3,green,Green
+BAC0B4,grey,Green
+FF7518,orange,Orange
+534931,brown,Yellow
+800080,Purple,Violet
+652DC1,blue,Violet
+9678B6,violet,Violet
+50404D,dark grey,Grey
+CDAE70,yellow,Yellow
+F2EDDD,cream,Green
+EBE2D2,cream,Yellow
+D9D9F3,light blue,White
+C3988B,light brown,Brown
+CBC9C0,Grey,Grey
+6A5445,brown,Brown
+232F2C,very dark Green,Green
+FF355E,dark pink,Red
+DCC6A0,brown,Yellow
+667028,green,Green
+B3C1B1,grey,Green
+FCAE60,orange,Orange
+2B2E25,black,Green
+6F747B,grey,Blue
+D27D46,light brown,Brown
+734A12,brown,Brown
+FF33CC,dark pink,Red
+E30B5C,Red,Red
+453430,very dark brown,Brown
+FF0000,Red,Red
+701F28,Red,Red
+CB6F4A,orange,Orange
+662A2C,dark red,Red
+FF3F34,Red Orange,Orange
+5D1F1E,dark Red ,Red
+7D4138,dark Red,Red
+AD522E,dark orange,Orange
+BB3385,purple,Violet
+5B342E,brown,Red
+D1EF9F,light green,Green
+A98D36,dark yellow,Yellow
+203F58,Blue,Blue
+798488,Grey,Blue
+A0CDD9,cyan,Blue
+F6DEDA,cream,Red
+B26E33,brown,Orange
+323F75,Blue,Blue
+37363F,dark blue,Violet
+3D4653,dark blue,Blue
+EFECDE,cream,Green
+EFF5D1,very light yellow,Green
+5959AB,Blue,Blue
+A15226,brown,Orange
+B7C61A,light green,Green
+89D9C8,cyan,Green
+556061,grey,Blue
+DDAD56,light brown,Yellow
+00CCCC,cyan,Blue
+5A4D41,brown,Brown
+93A2BA,light Blue,Blue
+9D442D,dark red,Orange
+C7A384,light brown,Brown
+6D7876,grey,Green
+D8625B,Red,Red
+7D6757,brown,Brown
+F4F0E6,light cream,Grey
+FFC69E,cream,Orange
+EAB852,dark yellow,Yellow
+A14743,Red,Red
+8E593C,brown,Orange
+D3A194,light red,Red
+FEAB9A,light red,Red
+8A2D52,purple,Red
+AC512D,Red,Orange
+905D5D,brown,Violet
+FBEEE8,very light red,Red
+BC8F8F,Rosy Brown,Brown
+B69642,dark yellow,Yellow
+A94064,maroon,Red
+4169E1,Blue,Blue
+B54B73,maroon,Red
+6B3FA0,Purple,Violet
+E0115F,Red,Red
+716675,Grey,Violet
+F1EDD4,White,Green
+80461B,Brown,Brown
+7D655C,Grey,Brown
+B7410E,Orange,Red
+3A181A,Very Dark maroon,Red
+8D5F2C,Dark Orange,Orange
+5D4E46,Grey,Brown
+8B4513,Dark Orange,Brown
+FF6600,Orange,Orange
+F4C430,Saffron,Yellow
+989F7A,Grey Green,Green
+B79826,Dark Yellow,Yellow
+A5CEEC,Light Blue,Blue
+177B4D,Green,Green
+FA8072,Light Red,Red
+FFD67B,Light Orange,Yellow
+696268,Dark Violet,Violet
+EEF3E5,Grey,Grey
+3B2E25,Dark Brown,Brown
+2C6E31,Green,Green
+445761,Blue,Blue
+4E6C9D,Blue,Blue
+867665,Sand Brown,Brown
+A3876A,Brown,Brown
+AF937D,Brown Grey,Brown
+786D5F,Grey,Brown
+DECB81,Light Yellow,Yellow
+FEDBB7,Light Orange,Orange
+F4A460,Orange,Brown
+92000A,Dark Red,Red
+6C3736,Maroon,Red
+9998A7,Grey,Blue
+A96A50,Brown,Orange
+E1D5A6,Light Cream,Yellow
+082567,Blue,Blue
+555B2C,Green,Green
+F4EAE4,Pink,Red
+F5DEC4,Light Orange,Orange
+6F63A0,Violet,Violet
+ADD9D1,Green Cyan,Green
+FF2400,Red,Red
+4A2D57,Violet,Violet
+7E2530,Dark Red,Red
+6B6A6C,Grey,Grey
+87876F,Grey,Green
+FFD800,Yellow,Yellow
+8D8478,Grey,Brown
+308EA0,Blue,Blue
+6A6466,Grey,Grey
+EEE7C8,Light Cream,Yellow
+66FF66,Light Green,Green
+3D4031,Dark Green,Green
+EF9548,Orange,Orange
+DFDDD6,Grey,Grey
+2E8B57,Green,Green
+C2D5C4,Grey Green,Green
+8AAEA4,Bluish Green,Green
+DB817E,Pink,Red
+77B7D0,Blue,Blue
+321414,Black,Brown
+69326E,Violet,Violet
+FFF5EE,White Cream,White
+37412A,Dark Green,Green
+E6DFE7,Light Violet,Violet
+FFBA00,Yellow,Yellow
+6B4226,Brown,Brown
+9E5B40,Brown,Brown
+FCE9D7,Light Red,Orange
+837050,Dark Yellow,Green
+9AC0B6,Light Cyan,Green
+9F9B9D,Grey,Grey
+609AB8,Blue,Blue
+F8F6A8,Light Yellow,Green
+33CC99,Greenish Blue,Green
+009E60,Green,Green
+34363A,Black,Grey
+00494E,Dark Blue,Green
+1B4636,Dark Green,Green
+E6B2A6,Pink,Red
+745937,Brown,Brown
+7988AB,Blue,Blue
+4E4E4C,Grey,Grey
+842833,Red,Red
+E899BE,Pink,Violet
+FC0FC0,Pink,Red
+61666B,Grey,Grey
+686B50,Dull Green,Green
+E9D9A9,Light Yellow,Yellow
+A0522D,Brown,Brown
+BBADA1,Grey,Brown
+C0C0C0,Grey,Grey
+ACAEA9,Grey,Grey
+BEBDB6,Grey,Grey
+67BE90,Green,Green
+A6D5D0,Light Cyan,Green
+69293B,Maroon,Red
+68766E,Grey,Green
+C5BAA0,Sand,Yellow
+9DB4AA,Light Cyan,Green
+87CEEB,Blue,Blue
+6A5ACD,Violet,Blue
+708090,Grey,Grey
+42342B,Brown,Brown
+003399,Blue,Blue
+496267,Blue,Blue
+BB5F34,Orange,Orange
+605D6B,Violet,Violet
+FFFAFA,White,White
+E3E3DC,Grey,Grey
+EAF7C9,Very Light Green,Green
+D6F0CD,Very Light Green,Green
+E4D7E5,Light Violet,Violet
+ECE5DA,Grey,Grey
+CFBEA5,Light Brown,Yellow
+EEDFDE,Light Pink,Red
+85494C,Maroon,Red
+EADAC2,Sand,Yellow
+E9ECF1,Light Blue,Blue
+DD6B38,Orange,Orange
+9D7F61,Brown,Brown
+C9B59A,Brown,Brown
+6F634B,Brown,Brown
+4B433B,Black,Brown
+7B8976,Teal,Green
+DED1B7,Sand,Yellow
+375D4F,Green,Green
+6C4F3F,Brown,Brown
+8B5F4D,Brown,Brown
+FF1CAE,Pink,Red
+B3C4D8,Light Blue,Blue
+F1D79E,Light Orange,Yellow
+7ECDDD,Blue,Blue
+A7FC00,Lemon Green,Green
+00FF7F,Cyan Green,Green
+A3BD9C,Dull Green,Green
+F1F1C6,Light Yellow,Green
+E9E1D9,Grey,Grey
+B8CA9D,Green,Green
+A2A1AC,Blue,Blue
+8F7D6B,Brown,Brown
+325482,Blue,Blue
+858885,Grey,Grey
+A0A197,Grey,Grey
+D2C6B6,Light Red,Yellow
+E3DD39,Yellow,Green
+4682B4,Blue,Blue
+43464B,Grey,Grey
+833D3E,Dark Red,Red
+807661,Grey,Yellow
+65645F,Grey,Grey
+747880,Grey,Blue
+DABE82,Light Yellow,Yellow
+946A81,Violet,Violet
+406356,Dark Mint,Green
+724AA1,Violet,Violet
+8C9C9C,Grey,Blue
+EEEFDF,White,Green
+C6EA80,Light Green,Green
+8FB69C,Light Mint,Green
+38B0DE,Blue,Blue
+EF8E38,Orange,Orange
+C4AA4D,Dark Yellow,Yellow
+F8AFA9,Pink,Red
+DAC01A,Yellow,Yellow
+C76155,Dark Red,Red
+FFCC33,Orange,Orange
+C0514A,Dark Red,Red
+FE4C40,Red,Orange
+FA9D49,Orange,Orange
+FFB437,Yellow,Yellow
+B8D4BB,Grey Green,Green
+C3D6BD,Grey Green,Green
+007B77,Blue Green,Green
+7C9F2F,Light Green,Green
+8B8685,Dark Grey,Grey
+252F2F,Dark Grey,Green
+DAE6DD,Light Grey,Grey
+F9E176,Yellow,Yellow
+EE918D,Pink,Red
+D7CEC5,Grey,Grey
+DBD0CA,Grey,Grey
+F6AE78,Orange,Orange
+D2B960,Dark Yellow,Yellow
+DC722A,Orange,Orange
+D8CC9B,Light Yellow,Yellow
+853534,Dark Red,Red
+A39977,Grey,Yellow
+752B2F,Dark Red,Red
+D2B48C,Light Brown,Brown
+B8B5A1,Grey,Green
+1E2F3C,Dark Blue,Blue
+F28500,Orange,Orange
+FFCC00,Yellow,Yellow
+D46F31,Orange,Orange
+7C7C72,Grey,Green
+B37084,Purple,Red
+DEF1DD,Very Light Green,Green
+253C48,Dark Blue,Blue
+BAC0B3,Grey,Grey
+483C32,Dark Brown,Grey
+8B8589,Grey,Grey
+643A48,Dark Red,Red
+496569,Dark Blue,Blue
+2B4B40,Dark Green,Green
+BFB5A2,Grey,Yellow
+D0F0C0,Very Light Green,Green
+F883C2,Pink,Orange
+AB8953,Brown,Yellow
+008080,Blue,Blue
+254855,Blue,Blue
+3C2126,Dark Brown,Brown
+CD5700,Orange,Orange
+F4D0A4,Cream,Yellow
+E2725B,Red,Red
+ECE67E,Yellow,Green
+FCB057,Orange,Orange
+B1948F,Grey,Brown
+544E31,Very Dark Yellow,Yellow
+D8BFD8,Violet,Violet
+4D4D4B,Grey,Grey
+923830,Red,Red
+97422D,Orange,Orange
+B9C3BE,Grey,Grey
+184343,Green,Green
+FC80A5,Pink,Red
+F0F590,Light Yellow,Green
+BEB4AB,Grey,Brown
+324336,Green,Green
+D9D6CF,Grey,Grey
+DDD6E1,Light Violet,Violet
+9F715F,Brown,Brown
+6D5843,Brown,Brown
+44362D,Black,Brown
+3E2631,Dark Violet,Violet
+2D2541,Dark Blue,Violet
+4F6348,Green,Green
+FF6347,Red,Red
+E79E88,Light Red,Orange
+817C87,Grey,Violet
+FD0E35,Red,Red
+353D75,Blue,Blue
+374E88,Blue,Blue
+744042,Dark Red,Red
+9CACA5,Grey,Green
+6DAFA7,Light Mint,Green
+DDEDE9,Light Blue,Blue
+E2DDC7,Light Brown,Green
+E2813B,Orange,Orange
+7E8424,Yellow Green,Green
+805D80,Violet,Violet
+C54F33,Orange,Orange
+AEC9EB,Light Blue,Blue
+00755E,Dark Green,Green
+4C5356,Grey,Grey
+8E72C7,Violet,Violet
+454642,Dark Grey,Grey
+F9D3BE,Light Orange,Orange
+E3AC3D,Dark Yellow,Yellow
+DEA681,Light Brown,Brown
+46494E,Dark Grey,Grey
+585452,Grey,Grey
+F5CC23,Yellow,Yellow
+A56E75,Dark Pink,Red
+AE9041,Dark Yellow,Yellow
+40E0D0,Cyan,Blue
+6CDAE7,Blue,Blue
+363E1D,Green,Green
+AD6242,Orange,Orange
+E3E5B1,Very Light Green,Green
+BF914B,Light Brown,Yellow
+F8E4E3,Light Pink,Red
+DAC0CD,Violet,Violet
+F4F6EC,White,Grey
+C19156,Brown,Yellow
+66023C,Purple,Violet
+FF6FFF,Pink,Red
+120A8F,Blue,Blue
+D4574E,Red,Red
+382C38,Dark Violet,Violet
+2A2B41,Dark Blue,Violet
+523936,Brown,Brown
+CCB69B,Light Brown,Brown
+EBD2D1,Light Pink,Red
+FDEFD3,Light Cream,Yellow
+C80815,Red,Red
+2C5778,Blue,Blue
+8B7D82,Grey,Violet
+62603E,Green,Grey
+48531A,Green,Green
+FF4D00,Orange,Red
+5C4033,Brown,Brown
+CDCDCD,Grey,Grey
+A85533,Brown,Orange
+564985,Violet,Violet
+5F9228,Green,Green
+4DB1C8,Sky Blue,Blue
+955264,Maroon,Red
+C58F9D,Light Maroon,Red
+2E2249,Blue,Violet
+EE82EE,Pink,Violet
+9F5F9F,Violet,Violet
+F7468A,Pink,Red
+40826D,Mint,Blue
+4B5F56,Dark Mint,Green
+F9E496,Light Yellow,Yellow
+97D5B3,Light Cyan,Green
+E3DFD9,Grey,Grey
+FF9980,Orange,Orange
+803790,Violet,Violet
+4E2728,Dark Brown,Red
+443240,Dark Violet,Violet
+36383C,Dark Grey,Grey
+D4BBB1,LIght Pink,Orange
+5B6E91,Blue,Blue
+4C4E31,Green,Green
+E4E2DC,White,Grey
+849137,Green,Green
+B6ECDE,Light Cyan,Green
+006E4E,Green,Green
+D6CA3D,Yellow,Green
+F2CDBB,Light Orange,Orange
+EEB39E,Orange,Orange
+FDD7D8,Pink,Red
+4C6B88,Blue,Blue
+8E3537,Dark Red,Red
+5C512F,Dark Yellow,Yellow
+E5823A,Orange,Orange
+D4CFC5,White,Grey
+F1919A,Pink,Red
+F5DEB3,Light Cream,Brown
+DFD7BD,Grey,Yellow
+D29062,Light Brown,Orange
+D4915D,Light Brown,Orange
+EFE6E6,Grey,Grey
+FFFFFF,White,White
+D7EEE4,White Blue,Green
+E7E5E8,White,Blue
+EEE7DC,White,Grey
+F8F6D8,White Yellow,Green
+DAD6CC,Grey,Grey
+D4CFB4,Grey,Green
+F5F5F5,White,White
+7A89B8,Blue,Blue
+E3D474,Dark Yellow,Green
+E7E4DE,Grey,Grey
+FF3399,Dark Pink,Red
+FD5B78,Dark Pink,Red
+BECA60,Green,Green
+53736F,Mint Green,Green
+DFE6CF,Grey,Green
+69755C,Green,Green
+462C77,Violet,Violet
+522C35,Dark Red,Red
+D0C383,Light Yellow,Yellow
+F9E8E2,Light Pink,Red
+C9A0DC,Violet,Violet
+A29ECD,Blue,Blue
+FBF073,Light Yellow,Green
+302621,Black Brown,Brown
+463629,Brown,Brown
+626746,Green,Green
+45402B,Green,Yellow
+2B3230,Grey,Grey
+554545,Brown,Brown
+75876E,Green,Green
+FFFF00,Yellow,Yellow
+9ACD32,Yellow Green,Green
+73633E,Brown,Yellow
+FFAE42,Orange,Orange
+F49F35,Orange,Yellow
+FFC5BB,Pink,Red
+826A21,Dark Yellow,Yellow
+C7B882,Dull Yellow,Yellow
+6B5A5A,Grey,Brown
+B2C6B1,Light Green,Green
+C6723B,Orange,Orange
+3B3C38,Dark Grey,Grey
+81A6AA,Light Blue,Blue
+EBC2AF,Pink,Brown
+DEE3E3,Light Grey,Grey
+DDC283,Dull Yellow,Yellow
+A29589,Grey,Brown
+17462E,Green,Green
+CDD5D5,Grey,Grey

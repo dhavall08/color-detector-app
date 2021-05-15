@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Color Detector</string>
+    <string name="none">-</string>
+    <string name="title_activity_settings">Settings</string>
+
+    <string name="aboutus">Created by Dhaval Laiya and Rishi Kansara</string>
+
+    <string name="btn_click_here">Click here to start!</string>
+    <string name="about_us">About Us</string>
+</resources>
